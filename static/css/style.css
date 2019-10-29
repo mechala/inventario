@@ -1,0 +1,97 @@
+.logo {
+  width: 50px;
+  float: left;
+  margin-right: 15px;
+}
+.no-border {
+    border: 0;
+    box-shadow: none; /* You may want to include this as bootstrap applies these styles too */
+}
+hr.lineTitle{
+  background-color: #4baef9;
+  border-top: 2px solid #4baef9;
+}
+
+hr.lineproduct{
+  background-color: gray;
+  border-top: 2px solid #4baef9;
+}
+
+.addproducts{
+background-color: #4baef9;
+}
+
+.nuevoProducto  {
+  color: #4baef9;
+  margin-top: 60px;
+  margin-bottom: -15px;
+}
+.detalleProducto{
+	color: #4baef9;
+	margin-top: 60px;
+	margin-bottom: -15px;
+}
+
+.nameProduct{
+  color: #4baef9
+}
+
+.button-wrapper{
+    margin-right:-20px;
+}
+.txtdetalleProduct{
+	margin-top: 5px;
+  font-size: 150%;
+}
+
+
+/*
+div.vertical-line{
+  width: 1px; 
+  background-color: black; 
+  height: 100%;
+  float: left;
+  margin-top: -40px;
+}
+	*/
+.circle-text {
+display: table-cell;
+height: 70px; 
+width: 70px;
+text-align: center;
+vertical-align: middle;
+/*border-radius: 50%;
+background: #4baef9;*/
+color: #3168ff;
+font-size: 180%;
+margin-bottom: -100px; 
+}
+
+.price{
+    padding: 10px 40px 10px ; 
+    
+    width: 120px;
+   
+
+}
+
+.detailPrice{
+  margin-top: 40px;
+}
+.qtyplus {
+ 
+  font-size: 30px;
+  color: black;
+   }
+
+.qtyminus { 
+  
+  font-size: 30px;
+  color:black;
+  }
+
+  .in-creasedquantity{
+    text-align: 'center';
+    margin: 0 auto; 
+    display:block;
+  }
